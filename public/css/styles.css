@@ -1,0 +1,52 @@
+body, html {
+    background: #444;
+    color: #efefef;
+    font-family: 'Open Sans', sans-serif; !important;
+}
+
+h1 {
+    color: #efefef;
+    margin-bottom: 3rem;
+    margin-top: 1em;
+    text-align: center;
+}
+
+img {
+    -moz-box-shadow: 0 0 25px rgba(0, 0, 0, 0.60);
+    -webkit-box-shadow: 0 0 25px rgba(0, 0, 0, 0.60);
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.60);
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+div.header {
+    margin-bottom: 4rem;
+}
+
+div.sample-images {
+    margin: 2rem;
+}
+
+a.sample-image-link {
+
+}
+
+img.sample-image {
+    margin-bottom: 2rem;
+    width: 100%;
+}
+
+div.follow {
+    font-size: 5rem;
+    margin-bottom: 5rem;
+    text-align: center;
+}
+
+div.follow a {
+    color: #fff;
+    margin: 0 1rem;
+}
